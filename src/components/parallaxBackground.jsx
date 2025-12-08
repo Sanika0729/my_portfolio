@@ -66,3 +66,4 @@ const ParallaxBackground = () => {
 };
 
 export default ParallaxBackground;
+//  file renamed to ParallaxBackground.jsx
